@@ -11,12 +11,8 @@ title: KILOGAS Team
 | Sara Ellison  (co-PI)    	| University of Victoria, CA   |
 | Li-Hwai Lin   (co-PI)  	| ASIAA, Taiwan			       |
 | Amelie Saintonge  (co-PI) | UCL, UK/MPIfR, DE       	   |
-| A. N. Other  				| Institute			       	   |
-| A. N. Other  				| Institute			       	   |
-| A. N. Other  				| Institute			       	   |
-| A. N. Other  				| Institute			       	   |
-| A. N. Other  				| Institute			       	   |
-| A. N. Other  				| Institute			       	   |
+| Others to be added soon   | Various			       	   |
+
 
 
 If you would be interested in joining the KILOGAS team please [contact us](/contact/).
