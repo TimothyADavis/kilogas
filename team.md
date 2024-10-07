@@ -18,9 +18,11 @@ title: KILOGAS Team
 | Li-Hwai Lin   (co-PI)  	| ASIAA, TW				       |
 | Carlos Lopez-Coba			| ASIAA, TW						|
 | Jorge Moreno				| Pomona College, USA			|
+| Kate Rowlands				| STScI, USA					|
 | Amelie Saintonge  (co-PI) | UCL, UK/MPIfR, DE       	   |
 | Mark Sargent				| ISSI, CH						|
 | Matt Smith				| Cardiff University, UK		|
+| Dave Stark				| STScI, USA					|
 | Thomas Williams			| University of Oxford, UK		|
 | Others to be added soon   | Various			       	   |
 
