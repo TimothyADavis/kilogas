@@ -7,6 +7,7 @@ title: KILOGAS Team
 
 | Name      				| Affiliation                  |
 | ----------- 				| ----------- 				   |
+| Michael Anderson 			| Cardiff University, UK		|
 | George Bendo				| University of Manchester, UK	|
 | Dario Colombo				| University of Bonn, DE 		|
 | Luca Cortese				| ICRAR-UWA, AUS				|	
