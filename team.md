@@ -22,6 +22,7 @@ title: KILOGAS Team
 | Karen Masters				| Haverford College, USA		|
 | Jorge Moreno				| Pomona College, USA			|
 | Kate Rowlands				| STScI, USA					|
+| Ilaria Ruffa				| Cardiff University, UK		|
 | Amelie Saintonge  (co-PI) | UCL, UK / MPIfR, DE       	|
 | Mark Sargent				| ISSI, CH						|
 | Matt Smith				| Cardiff University, UK		|
