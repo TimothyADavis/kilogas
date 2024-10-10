@@ -28,6 +28,7 @@ title: KILOGAS Team
 | Matt Smith				| Cardiff University, UK		|
 | Dave Stark				| STScI, USA					|
 | Mallory Thorp				| University of Bonn, DE 		|
+| Scott Wilkinson			| University of Victoria, CA 	|
 | Thomas Williams			| University of Oxford, UK		|
 | Chris Wilson				| McMaster University, CA 		|
 | Others to be added soon   | Various			       	    |
