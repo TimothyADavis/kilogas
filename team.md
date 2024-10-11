@@ -15,7 +15,7 @@ title: KILOGAS Team
 | Luca Cortese				| ICRAR-UWA, AUS				|	
 | Timothy Davis (co-PI) 	| Cardiff University, UK        |
 | Sara Ellison  (co-PI)    	| University of Victoria, CA    |
-| Claudia Lagos				| ICRAR-UWA, AUX				|
+| Claudia Lagos				| ICRAR-UWA, AUS				|
 | Federico Lelli 			| INAF-Arcetri Observatory, IT 	|
 | Li-Hwai Lin   (co-PI)  	| ASIAA, TW				        |
 | Carlos Lopez-Coba			| ASIAA, TW						|
@@ -24,7 +24,7 @@ title: KILOGAS Team
 | Kate Rowlands				| STScI, USA					|
 | Ilaria Ruffa				| Cardiff University, UK		|
 | Amelie Saintonge  (co-PI) | UCL, UK / MPIfR, DE       	|
-| Mark Sargent				| ISSI, CH						|
+| Mark Sargent				| ISSI Bern, CH					|
 | Matt Smith				| Cardiff University, UK		|
 | Dave Stark				| STScI, USA					|
 | Mallory Thorp				| University of Bonn, DE 		|
