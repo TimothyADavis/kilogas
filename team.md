@@ -16,11 +16,13 @@ title: KILOGAS Team
 | Timothy Davis (co-PI) 	| Cardiff University, UK        |
 | Sara Ellison  (co-PI)    	| University of Victoria, CA    |
 | Claudia Lagos				| ICRAR-UWA, AUS				|
+| Blake Ledger				| University of Victoria, CA 	|
 | Federico Lelli 			| INAF-Arcetri Observatory, IT 	|
 | Li-Hwai Lin   (co-PI)  	| ASIAA, TW				        |
 | Carlos Lopez-Coba			| ASIAA, TW						|
 | Karen Masters				| Haverford College, USA		|
 | Jorge Moreno				| Pomona College, USA			|
+| Hsi-An Pan 				| Tamkang University, TW		|
 | Kate Rowlands				| STScI, USA					|
 | Ilaria Ruffa				| Cardiff University, UK		|
 | Amelie Saintonge  (co-PI) | UCL, UK / MPIfR, DE       	|
