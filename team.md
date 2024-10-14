@@ -37,6 +37,5 @@ title: KILOGAS Team
 | Others to be added soon   | Various			       	    |
 
 
-
 If you would be interested in joining the KILOGAS team please [contact us](/contact/).
 
