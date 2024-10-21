@@ -10,6 +10,7 @@ title: KILOGAS Team
 | Michael Anderson 			| Cardiff University, UK		|
 | George Bendo				| University of Manchester, UK	|
 | Toby Brown				| National Research Council, CA |
+| Barbara Catinella			| ICRAR-UWA, AUS				|
 | Chiara Circosta			| European Space Agency, ES 	|
 | Dario Colombo				| University of Bonn, DE 		|
 | Luca Cortese				| ICRAR-UWA, AUS				|	
@@ -34,7 +35,8 @@ title: KILOGAS Team
 | Scott Wilkinson			| University of Victoria, CA 	|
 | Thomas Williams			| University of Oxford, UK		|
 | Chris Wilson				| McMaster University, CA 		|
-| Others to be added soon   | Various			       	    |
+| Stijn Wuyts				| University of Bath, UK 		|
+| Nikki Zabel				| University of Cape Town, ZA 	|
 
 
 If you would be interested in joining the KILOGAS team please [contact us](/contact/).
