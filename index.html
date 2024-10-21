@@ -21,7 +21,7 @@ title: KILOGAS
 			</h3>
 			<p>
 				{%- if post.description -%}{{ post.description }}{%- else -%}{{
-				post.excerpt | strip_html }}{%- endif -%}
+				post.excerpt | strip_html }}{%- endif -%}<br><i><a class="post-link" href="{{ post.url | relative_url }}">[Read more]</a></i>
 			</p>
 		</article>
 		{%- endfor -%}
