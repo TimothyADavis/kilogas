@@ -30,7 +30,7 @@ title: KILOGAS Team
 | Kate Rowlands				| STScI, USA					|
 | Ilaria Ruffa				| Cardiff University, UK		|
 | Amelie Saintonge  (co-PI) | UCL, UK / MPIfR, DE       	|
-| Sebastian Sanchez			| UNAM, ME 						|
+| Sebastian Sanchez			| UNAM, MX 						|
 | Mark Sargent				| ISSI Bern, CH					|
 | Matt Smith				| Cardiff University, UK		|
 | Dave Stark				| STScI, USA					|
