@@ -20,6 +20,7 @@ title: KILOGAS Team
 | Sara Ellison  (co-PI)    	| University of Victoria, CA    |
 | Amelia Fraser-McKelvie	| ESO Garching, DE 				|
 | Claudia Lagos				| ICRAR-UWA, AUS				|
+| Jennifer Laing 			| McMaster University, CA 		|
 | Blake Ledger				| University of Victoria, CA 	|
 | Federico Lelli 			| INAF-Arcetri Observatory, IT 	|
 | Li-Hwai Lin   (co-PI)  	| ASIAA, TW				        |
@@ -27,6 +28,8 @@ title: KILOGAS Team
 | Karen Masters				| Haverford College, USA		|
 | Jorge Moreno				| Pomona College, USA			|
 | Hsi-An Pan 				| Tamkang University, TW		|
+| Thomas Rintoul 			| Cardiff University UK 		|
+| Michael Romano			| MPIfR, DE 					| 
 | Kate Rowlands				| STScI, USA					|
 | Ilaria Ruffa				| Cardiff University, UK		|
 | Amelie Saintonge  (co-PI) | UCL, UK / MPIfR, DE       	|
@@ -40,6 +43,7 @@ title: KILOGAS Team
 | Thomas Williams			| University of Oxford, UK		|
 | Chris Wilson				| McMaster University, CA 		|
 | Stijn Wuyts				| University of Bath, UK 		|
+| Niankun Yu 				| MPIfR, DE 					|
 | Nikki Zabel				| University of Cape Town, ZA 	|
 
 
