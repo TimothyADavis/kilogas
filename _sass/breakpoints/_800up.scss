@@ -127,7 +127,13 @@ HEADER STYLING
 /***************
 MENU STYLING
 ***************/
-
+.logo{
+	width: 264px;
+	display: inline;
+}
+.altlogo{
+	display: none;
+}
 .js {
 
 	.nav-collapse {

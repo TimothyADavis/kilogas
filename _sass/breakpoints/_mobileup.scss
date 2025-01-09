@@ -69,7 +69,12 @@ a {
 /***************
 MENU STYLING
 ***************/
-
+.logo{
+	display: none;
+}
+.altlogo{
+	display: inline;
+}
 .nav-collapse {
 	z-index: 1;
 
