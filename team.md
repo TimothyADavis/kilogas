@@ -9,6 +9,7 @@ title: KILOGAS Team
 | ----------- 				| ----------- 				    |
 | Michael Anderson 			| Cardiff University, UK		|
 | George Bendo				| University of Manchester, UK	|
+| Josephine Benna			| MPIfR, DE 					|
 | Toby Brown				| National Research Council, CA |
 | Barbara Catinella			| ICRAR-UWA, AUS				|
 | Chiara Circosta			| European Space Agency, ES 	|
@@ -19,6 +20,7 @@ title: KILOGAS Team
 | Stephen Eales				| Cardiff University, UK        |
 | Sara Ellison  (co-PI)    	| University of Victoria, CA    |
 | Amelia Fraser-McKelvie	| ESO Garching, DE 				|
+| Taavishi Jindel			| McMaster University, CA 		|
 | Claudia Lagos				| ICRAR-UWA, AUS				|
 | Jennifer Laing 			| McMaster University, CA 		|
 | Blake Ledger				| University of Victoria, CA 	|
