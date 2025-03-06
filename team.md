@@ -12,6 +12,7 @@ title: KILOGAS Team
 | Josephine Benna			| MPIfR, DE 					|
 | Toby Brown				| National Research Council, CA |
 | Barbara Catinella			| ICRAR-UWA, AUS				|
+| Woorak Choi				| McMaster University, CA 		|
 | Chiara Circosta			| European Space Agency, ES 	|
 | Dario Colombo				| University of Bonn, DE 		|
 | Luca Cortese				| ICRAR-UWA, AUS				|	
@@ -44,10 +45,11 @@ title: KILOGAS Team
 | Scott Wilkinson			| University of Victoria, CA 	|
 | Thomas Williams			| University of Oxford, UK		|
 | Chris Wilson				| McMaster University, CA 		|
+| Po-Feng Wu 				| National Taiwan Uni., TW 		|
 | Stijn Wuyts				| University of Bath, UK 		|
 | Niankun Yu 				| MPIfR, DE 					|
 | Nikki Zabel				| University of Cape Town, ZA 	|
 
 
-If you would be interested in joining the KILOGAS team please [contact us](/contact/).
+If you would be interested in learning more about opportunities to work with the KILOGAS team [contact us](/contact/).
 
