@@ -29,6 +29,7 @@ title: KILOGAS Team
 | Li-Hwai Lin   (co-PI)  	| ASIAA, TW				        |
 | Carlos Lopez-Coba			| ASIAA, TW						|
 | Karen Masters				| Haverford College, USA		|
+| Francisco Mercado			| Pomona College, USA			|
 | Jorge Moreno				| Pomona College, USA			|
 | Hsi-An Pan 				| Tamkang University, TW		|
 | Thomas Rintoul 			| Cardiff University UK 		|
@@ -51,5 +52,5 @@ title: KILOGAS Team
 | Nikki Zabel				| University of Cape Town, ZA 	|
 
 
-If you would be interested in learning more about opportunities to work with the KILOGAS team [contact us](/contact/).
+If you would be interested in learning more about opportunities to work with the KILOGAS team, [contact us](/contact/).
 
