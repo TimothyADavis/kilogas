@@ -8,6 +8,7 @@ title: KILOGAS Team
 | Name      				| Affiliation                   |
 | ----------- 				| ----------- 				    |
 | Michael Anderson 			| Cardiff University, UK		|
+| Sebastian Arriagada-Neira	| MPIfR, DE 					|
 | George Bendo				| University of Manchester, UK	|
 | Josephine Benna			| MPIfR, DE 					|
 | Toby Brown				| National Research Council, CA |
