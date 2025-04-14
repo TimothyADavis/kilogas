@@ -31,6 +31,7 @@ title: KILOGAS Team
 | Carlos Lopez-Coba			| ASIAA, TW						|
 | Karen Masters				| Haverford College, USA		|
 | Francisco Mercado			| Pomona College, USA			|
+| Amara Mighty				| UCL, UK						|
 | Jorge Moreno				| Pomona College, USA			|
 | Hsi-An Pan 				| Tamkang University, TW		|
 | Thomas Rintoul 			| Cardiff University UK 		|
@@ -44,6 +45,7 @@ title: KILOGAS Team
 | Dave Stark				| STScI, USA					|
 | Mallory Thorp				| University of Bonn, DE 		|
 | Freeke van de Voort		| Cardiff University, UK 		|
+| Aparna Venkateshwaran		| Cardiff University, UK		|
 | Scott Wilkinson			| University of Victoria, CA 	|
 | Thomas Williams			| University of Oxford, UK		|
 | Chris Wilson				| McMaster University, CA 		|
