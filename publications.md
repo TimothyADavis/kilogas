@@ -11,7 +11,7 @@ title: KILOGAS Publications
 
 | First Author      		| Title                  	   | ADS link 						|
 | ----------- 				| ----------- 				   | ----------- 				   |
-| Coming Soon 	| to and arXiv near you       | [Link](https://kilogas.space) |
+| Coming Soon 	| to an arXiv near you       | [Link](https://kilogas.space) |
 
 
 
