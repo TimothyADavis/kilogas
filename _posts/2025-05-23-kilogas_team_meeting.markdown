@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ALMA observations completed!"
+title:  "KILOGAS team meeting, Cardiff"
 date:   2025-05-23
 ---
 
