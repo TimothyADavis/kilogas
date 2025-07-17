@@ -10,6 +10,8 @@ title: KILOGAS Survey Description
 	
 	<h3>Sample characteristics</h3>
 	<p>The KILOGAS targets are selected from the MaNGA and SAMI optical IFU surveys to be at 0.01<z<0.06 and to cover a wide range of stellar masses <i>without selection on star formation activity, morphology, size, or any other such additional parameter</i>. This makes the KILOGAS sample not only significantly larger, but also far diverse and complete than any other previous survey with matched-resolution CO and optical spectroscopic data. </p>
+	
+	A FITS table containing a basic description of our sample (KILOGAS ID, IAU Name, RA, Dec, IFU Survey, IFU source ID, redshift), along with some basic properties (Stellar mass, SFR) can be found <a href="/assets/img/KILOGAS_global_catalog_short.fits">here</a>, in case you would like to determine the extent of overlap with your favourite sources. Please <a href="https://kilogas.space/contact/">contact us</a> if you would like to discuss further. 
 
 
 		<figure>
