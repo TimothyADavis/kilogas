@@ -38,9 +38,10 @@ title: KILOGAS Team
 | Michael Romano			| MPIfR, DE 					| 
 | Kate Rowlands				| STScI, USA					|
 | Ilaria Ruffa				| Cardiff University, UK		|
-| Amelie Saintonge  (co-PI) | UCL, UK / MPIfR, DE       	|
+| Amelie Saintonge  (co-PI) | MPIfR, DE       				|
 | Sebastian Sanchez			| UNAM, MX 						|
 | Mark Sargent				| ISSI Bern, CH					|
+| Vishalika Sharma			| MPIfR, DE 					|
 | Matt Smith				| Cardiff University, UK		|
 | Dave Stark				| STScI, USA					|
 | Mallory Thorp				| University of Bonn, DE 		|
