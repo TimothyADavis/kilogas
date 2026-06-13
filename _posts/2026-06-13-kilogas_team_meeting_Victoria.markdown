@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KILOGAS team meeting, Victoria"
-date:   2025-05-23
+date:   2025-06-13
 ---
 
 <p class="intro"><span class="dropcap"></span>The KILOGAS team conducted its second annual meeting and busy week</p>
